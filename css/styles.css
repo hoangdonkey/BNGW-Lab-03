@@ -20,6 +20,7 @@ header.navBar {
 div#trailer {
 	text-align: center;
 }
+
 .navBarItem a:link {
   color: red;
 }
@@ -94,6 +95,7 @@ div#table table {
 div#requirements {
 	text-align: center;
 }
+
 div#requirements table {
 	margin: auto;
 }
